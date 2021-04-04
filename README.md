@@ -6,6 +6,8 @@ The purpose of this assignment was to see if having a bike-sharing program in De
 
 ## Results
 
+[link to dashboard](https://public.tableau.com/profile/syed.ali.akbar#!/vizhome/NYCBikeData_16172372411460/ModuleChallenge?publish=yes)
+
 ![image](https://user-images.githubusercontent.com/76131315/113496104-4a8a2380-94c4-11eb-8abd-532689fba7a5.png)
 1. We checked the type of customer which of the 2,344,224 rides, 1,900,359 were subscribers and 443,865 are customers
 
